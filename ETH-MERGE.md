@@ -103,4 +103,4 @@ The Merge 带来的一个重大变化将是固定的区块时间。当前的 PoW
 * 参考文章 [ethereum-merge-proof-of-stake](https://www.blocknative.com/blog/ethereum-merge-proof-of-stake)
 
 #### 联系方式  
-* [twitter](https://twitter.com/DylanLi001)
+* [twitter](https://twitter.com/BlockInitinal)

@@ -1,1 +1,1 @@
-# 为区块链安全的普及做的一些微不足道的贡献
+# Some trivial contributions to the popularization of blockchain security  
